@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/view/typing-anime-coding-gif-13243654847988652639"  />
+  <img height="200" src="https://media1.tenor.com/m/t8rp6pY-Wl8AAAAd/typing-anime-coding.gif"  />
 </div>
 
 ###
