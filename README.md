@@ -79,10 +79,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/grifitth12/grifitth12/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">👋👋👋</p>
 
 ###
