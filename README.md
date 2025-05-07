@@ -76,9 +76,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/grifitth12/count.svg?"  />
 </div>
-###
-
-<img src="https://raw.githubusercontent.com/grifitth12/grifitth12/output/snake.yml" alt="Snake animation" />
 
 ###
 
