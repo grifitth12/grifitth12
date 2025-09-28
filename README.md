@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=grifitth12.grifitth12&right_color=mediumvioletred"  />
-</div>
+
 
 <p align="left">Welcome to my GitHub profile. I am a passionate developer who loves exploring new technologies and loves to build cool stuff.</p>
 
@@ -17,6 +15,9 @@
 ###
 
 <p align="center">-- I'm Alvin from bogor-Indonesia --</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=grifitth12.grifitth12&right_color=mediumvioletred"  />
+</div>
 
 ###
 
