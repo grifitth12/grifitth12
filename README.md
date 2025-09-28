@@ -1,5 +1,5 @@
 <h3 align="left">🎉  Hello, I'm Finn  🎉</h3>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=grifitth12.grifitth12&right_color=mediumvioletred"  />
 ###
 
 <p align="left">Welcome to my GitHub profile. I am a passionate developer who loves exploring new technologies and loves to build cool stuff.</p>
@@ -87,6 +87,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=grifitth12&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<p align="center">Sayonara👋<img src="https://visitor-badge.laobi.icu/badge?page_id=grifitth12.grifitth12&right_color=mediumvioletred"  /></p>
+<p align="center">Sayonara👋</p>
 
 ###
