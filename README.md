@@ -87,6 +87,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=grifitth12&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<p align="center">Sayonara👋</p><img src="https://visitor-badge.laobi.icu/badge?page_id=grifitth12.grifitth12&right_color=mediumvioletred"  />
+<p align="center">Sayonara👋<img src="https://visitor-badge.laobi.icu/badge?page_id=grifitth12.grifitth12&right_color=mediumvioletred"  /></p>
 
 ###
