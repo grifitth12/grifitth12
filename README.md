@@ -1,6 +1,6 @@
-<h3 align="left">🎉  Hello, I'm Finn  🎉</h3>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=grifitth12.grifitth12&right_color=mediumvioletred"  />
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=grifitth12.grifitth12&right_color=mediumvioletred"  />
+</div>
 
 <p align="left">Welcome to my GitHub profile. I am a passionate developer who loves exploring new technologies and loves to build cool stuff.</p>
 
