@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="250"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRvd2JybHk0MWFyY3JqYXB1YzBkMjRjMmx4MGFkczVqbjYxZWdsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iEGNuhCj1Z2kklFujo/giphy.gif"  />
+</div>
 
 <p align="left">Welcome to my GitHub profile. I am a passionate developer who loves exploring new technologies and loves to build cool stuff.</p>
 
